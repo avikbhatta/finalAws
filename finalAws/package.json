@@ -1,0 +1,21 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Rest api for android app",
+  "engines": {
+    "node": "9.11.1",
+    "npm": "6.2.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Nitish Kumar",
+  "license": "ISC",
+  "dependencies": {
+
+    "express": "^4.16.2",
+
+
+    "nodemailer": "^4.6.3"
+  }
+}
